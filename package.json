@@ -8,7 +8,7 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://pinvent.github.io/pinvent",
+  "homepage": "https://pinvent.github.io/pinvent/",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "yarn run build",
